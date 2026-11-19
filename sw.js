@@ -1,5 +1,5 @@
 // イルフプラザこどもカード 更新版
-const CACHE = 'ilf-kodomo-card-shell-v2';
+const CACHE = 'ilf-kodomo-card-shell-v3';
 const ASSETS = [
   './index.html',
   './manifest.webmanifest',
